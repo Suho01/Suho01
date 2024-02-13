@@ -1,4 +1,4 @@
-<div align=center>프론트엔드 개발자 이지연!! 🥰💕></div>
+<div align=center>프론트엔드 개발자 이지연!! 🥰💕</div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
