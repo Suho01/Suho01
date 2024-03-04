@@ -1,6 +1,6 @@
 <div align=center><h1>다재다능한 개발자 Cotton🥰💕!</h1></div>
 <div align=center><h3>컴퓨터공학을 전공하고 목소리가 큰 Cotton입니다.</h3></div>
-<div align=center><h3>#협업이재밌어요 #ENFJ #디자인부터개발까지 #풀풀풀풀풀스택 #MZ막차</h3></div>
+<div align=center><h3>#협업이재밌어요 #ENFJ #디자인부터개발까지 #풀풀풀풀풀스택 #MZ막차 #푸바오 #지바오</h3></div>
 <div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center>
@@ -39,6 +39,7 @@
     저는 전자공학과에서 아두이노 실험 중 우연히 한 C++ 코딩으로부터 재미를 느껴<br>
     바로 다음 학년에 컴퓨터공학과로 전과를 한 전과자입니다.<br>
     또한 한 가수를 12년째(2024년 기준) 끈질기게 좋아하고 있습니다.<br>
+    <b>**[NEW!] 푸바오 보려고 320분(5시간 20분) 현장줄서기 대기해서 보고 왔습니다!**</b><br>
     이러한 저의 추진력과 열정을 따라갈 자는 저에게 도전장을 내밀어 보세요!<br>
     suhoprimavera@gmail.com<br>
   </p>
